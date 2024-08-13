@@ -36,7 +36,7 @@ This project, conducted as part of a DataCamp course, provides a comprehensive s
 ### How to Use this Repository
 
 1. **Clone the Repository**: Clone the repository to your local machine using `git clone`.
-2. **Install Dependencies**: Install the required Python packages using the `requirements.txt` file: `pip install -r requirements.txt`.
+2. **Install Dependencies**: Install the required Python packages.
 3. **Explore Notebooks**: Navigate to the `/notebooks` directory and open the Jupyter notebooks to explore the analysis and visualizations.
 4. **Contribute**: Contributions and suggestions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
